@@ -1,6 +1,6 @@
 # Final Project FGA DTS 2023 - BDP SAMRAT B - Kelompok 1
 
-## Anggota Kelompok:
+## Anggota Kelompok
 1. Adittya Kamal Mahardin
 2. Renny Kurniasari
 3. Theresia Rosaria
