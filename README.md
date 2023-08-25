@@ -1,19 +1,32 @@
 # Final Project FGA DTS 2023 - BDP SAMRAT B - Kelompok 1
 
-Anggota Kelompok:
+## Anggota Kelompok:
 1. Adittya Kamal Mahardin
 2. Renny Kurniasari
 3. Theresia Rosaria
 4. Tegar Kamarulzaman
 5. Semmy Vigmendelson K
 
-Case Objective
+## Case Objective
 1. How much sales for each category ?
 2. How much the average order value for each year ?
 3. Which category & product makes the most profit ?
 4. Which product had worst growth in books category for each year ?
 5. Who are the best customers?
 6. Who has the potential to become valuable customers?
+
+## Dependencies
+*   `pip install pandas`
+*   `pip install numpy`
+*   `pip install matplolib`
+*   `pip install seaborn`
+*   `pip install plotly`
+*   `pip install hvplot`
+*   `pip install panel`
+*   `pip install holoviews`
+
+---
+
 
 ## Data Dictionary
 
